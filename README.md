@@ -16,6 +16,10 @@ from the M.Sc. Geological Sciences at the Freie Universität Berlin.
 git clone https://github.com/georgkaufmann/iceage.git
 ```
 
+## Run interactively with binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/iceage.git/master)
+
 ## Versioning
 
 We use [Git](https://git-scm.com/) for versioning.
