@@ -1,0 +1,8 @@
+name: Lecture environment file
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas

@@ -13,7 +13,7 @@ from the M.Sc. Geological Sciences at the Freie Universität Berlin.
 
 ## Download
 ```
-git clone https://gkaufmann@bitbucket.org/gkaufmann/lecture_modelling.git
+git clone https://github.com/georgkaufmann/iceage.git
 ```
 
 ## Versioning
