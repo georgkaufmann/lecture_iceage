@@ -1,0 +1,6 @@
+#!/bin/bash
+name="orbit_"
+for i in {0..52};do
+    j=$(printf %04d $i);
+    convert -trim "$name""$j".png "$name""$j".gif
+done
