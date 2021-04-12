@@ -28,7 +28,7 @@ We use [Git](https://git-scm.com/) for versioning.
 
 * **Georg Kaufmann** - *Initial work* - [Georg Kaufmann](http://userpage.fu-berlin.de/~geodyn)
 
-![](fu-logo.jpg)
+![](images/fu-logo.jpg)
 
 
 ## License
