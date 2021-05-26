@@ -1,4 +1,4 @@
-time[a]       dH[permil]
+time[a BP]       dH[permil]
       0.00    -438.00
      17.00    -438.00
      35.00    -438.00
