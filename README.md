@@ -39,15 +39,15 @@ Malteserstr. 74-100, 12249 Berlin, Haus D, Raum D127<br>
 The lecture series is compiled as handouts in **pdf** format:
 
 - [Lecture 0: Overview](handouts/Lecture_IceAges_00_Overview_handout.pdf)
-- Lecture 1: Ice on Earth
-- Lecture 2: Geomorphology
-- Lecture 3: Dating
-- Lecture 4: Paleoclimate
-- Lecture 5: Karst
-- Lecture 6: Earth orbit
-- Lecture 7: Ice models
-- Lecture 8: Sea level
-- Lecture 9: Landscape
+- [Lecture 1: Ice on Earth](handouts/Lecture_IceAges_01_IceOnEarth_handout.pdf)
+- [Lecture 2: Geomorphology](handouts/Lecture_IceAges_02_Geomorphology_handout.pdf)
+- [Lecture 3: Dating](handouts/Lecture_IceAges_03_Dating_handout.pdf)
+- [Lecture 4: Paleoclimate](handouts/Lecture_IceAges_04_Paleoclimate_handout.pdf)
+- [Lecture 5: Karst](handouts/Lecture_IceAges_05_Karst_handout.pdf)
+- [Lecture 6: Earth orbit](handouts/Lecture_IceAges_06_EarthOrbit_handout.pdf)
+- [Lecture 7: Ice models](handouts/Lecture_IceAges_07_IceModels_handout.pdf)
+- [Lecture 8: Sea level](handouts/Lecture_IceAges_08_Sealevel_handout.pdf)
+- [Lecture 9: Landscape](handouts/Lecture_IceAges_09_Landscape_handout.pdf)
 
 ## Exercises
 
@@ -62,7 +62,7 @@ git clone https://github.com/georgkaufmann/lecture_iceage.git
 
 ## Run interactively with binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_iceage.git/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_iceage.git/main?filepath=index.ipynb)
 
 ## Versioning
 
