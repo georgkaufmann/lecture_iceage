@@ -1,6 +1,7 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <table>
 <tr><td><img style="height: 150px;" src="images/Obersulzbachkees_gk.jpg"></td>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#CDCDCD" style="width:600px">
 <h1>Ice-age dynamics</h1>
 <h2>Georg Kaufmann</h2>
 </td>
@@ -36,33 +37,57 @@ Malteserstr. 74-100, 12249 Berlin, Haus D, Raum D127<br>
 
 ## Lectures
 
-The lecture series is compiled as handouts in **pdf** format:
+The lecture series is compiled as handouts in **pdf** format
+(click on title):
 
-- [Lecture 0: Overview](handouts/Lecture_IceAges_00_Overview_handout.pdf)
-- [Lecture 1: Ice on Earth](handouts/Lecture_IceAges_01_IceOnEarth_handout.pdf)
-- [Lecture 2: Geomorphology](handouts/Lecture_IceAges_02_Geomorphology_handout.pdf)
-- [Lecture 3: Dating](handouts/Lecture_IceAges_03_Dating_handout.pdf)
-- [Lecture 4: Paleoclimate](handouts/Lecture_IceAges_04_Paleoclimate_handout.pdf)
-- [Lecture 5: Karst](handouts/Lecture_IceAges_05_Karst_handout.pdf)
-- [Lecture 6: Earth orbit](handouts/Lecture_IceAges_06_EarthOrbit_handout.pdf)
-- [Lecture 7: Ice models](handouts/Lecture_IceAges_07_IceModels_handout.pdf)
-- [Lecture 8: Sea level](handouts/Lecture_IceAges_08_Sealevel_handout.pdf)
-- [Lecture 9: Landscape](handouts/Lecture_IceAges_09_Landscape_handout.pdf)
+<table>
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_00_Overview_handout.pdf'>0. Overview</a> <br><img src='images/Obersulzbachkees_gk.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_01_IceOnEarth_handout.pdf'>1. Ice on Earth</a> <br><img src='images/chapter/chap01.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_02_Geomorphology_handout.pdf'>2. Geomorphology</a> <br><img src='images/chapter/chap02.jpg' style=width:40mm></td>
+</tr>
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_03_Dating_handout.pdf'>3. Dating</a> <br><img src='images/chapter/chap03.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_04_Paleoclimate_handout.pdf'>4. Paleoclimate</a> <br><img src='images/chapter/chap04.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_05_Karst_handout.pdf'>5. Karst</a> <br><img src='images/chapter/chap05.jpg' style=width:40mm></td>
+</tr>
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_06_EarthOrbit_handout.pdf'>6. Earth orbit</a> <br><img src='images/chapter/chap06.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_07_IceModels_handout.pdf'>7. Ice models</a> <br><img src='images/chapter/chap07.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_08_Sealevel_handout.pdf'>8. Sea level</a> <br><img src='images/chapter/chap08.jpg' style=width:40mm></td>
+</tr>
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_09_Landscape_handout.pdf'>9. Landscape</a> <br><img src='images/chapter/chap09.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_10_GIA_handout.pdf'>10. GIA</a> <br><img src='images/chapter/chap10.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_IceAges_11_Outlook_handout.pdf'>11. Outlook</a> <br><img src='images/chapter/chap11.jpg' style=width:40mm></td>
+</tr>
+</table>
 
 ## Exercises
 
-The exercises are mainly **jupyter** notebooks, which can be accessed through:
+The exercises are mainly **jupyter** notebooks, which can be accessed interactively through<br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_iceage.git/main?filepath=index.ipynb)
 
-- [Juypter notebooks](index.ipynb)
+A list of notebooks can be found here:
+
+- <a href="README_Notebooks.md" target="_blank">List of Juypter notebooks</a>
 
 ## Download
 ```
 git clone https://github.com/georgkaufmann/lecture_iceage.git
 ```
-
-## Run interactively with binder
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_iceage.git/main?filepath=index.ipynb)
 
 ## Versioning
 
