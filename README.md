@@ -43,35 +43,35 @@ The lecture series is compiled as handouts in **pdf** format
 <table>
 <tr>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_00_Overview_handout.pdf'>0. Overview</a> <br><img src='images/Obersulzbachkees_gk.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_00_Overview_handout.pdf'>0. Overview</a> <br><img src='images/Obersulzbachkees_gk.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_01_IceOnEarth_handout.pdf'>1. Ice on Earth</a> <br><img src='images/chapter/chap01.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_01_IceOnEarth_handout.pdf'>1. Ice on Earth</a> <br><img src='images/chapter/chap01.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_02_Geomorphology_handout.pdf'>2. Geomorphology</a> <br><img src='images/chapter/chap02.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_02_Geomorphology_handout.pdf'>2. Geomorphology</a> <br><img src='images/chapter/chap02.jpg' style=width:50mm></td>
 </tr>
 <tr>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_03_Dating_handout.pdf'>3. Dating</a> <br><img src='images/chapter/chap03.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_03_Dating_handout.pdf'>3. Dating</a> <br><img src='images/chapter/chap03.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_04_Paleoclimate_handout.pdf'>4. Paleoclimate</a> <br><img src='images/chapter/chap04.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_04_Paleoclimate_handout.pdf'>4. Paleoclimate</a> <br><img src='images/chapter/chap04.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_05_Karst_handout.pdf'>5. Karst</a> <br><img src='images/chapter/chap05.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_05_Karst_handout.pdf'>5. Karst</a> <br><img src='images/chapter/chap05.jpg' style=width:50mm></td>
 </tr>
 <tr>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_06_EarthOrbit_handout.pdf'>6. Earth orbit</a> <br><img src='images/chapter/chap06.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_06_EarthOrbit_handout.pdf'>6. Earth orbit</a> <br><img src='images/chapter/chap06.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_07_IceModels_handout.pdf'>7. Ice models</a> <br><img src='images/chapter/chap07.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_07_IceModels_handout.pdf'>7. Ice models</a> <br><img src='images/chapter/chap07.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_08_Sealevel_handout.pdf'>8. Sea level</a> <br><img src='images/chapter/chap08.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_08_Sealevel_handout.pdf'>8. Sea level</a> <br><img src='images/chapter/chap08.jpg' style=width:50mm></td>
 </tr>
 <tr>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_09_Landscape_handout.pdf'>9. Landscape</a> <br><img src='images/chapter/chap09.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_09_Landscape_handout.pdf'>9. Landscape</a> <br><img src='images/chapter/chap09.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_10_GIA_handout.pdf'>10. GIA</a> <br><img src='images/chapter/chap10.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_10_GIA_handout.pdf'>10. GIA</a> <br><img src='images/chapter/chap10.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_IceAges_11_Outlook_handout.pdf'>11. Outlook</a> <br><img src='images/chapter/chap11.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_IceAges_11_Outlook_handout.pdf'>11. Outlook</a> <br><img src='images/chapter/chap11.jpg' style=width:50mm></td>
 </tr>
 </table>
 
@@ -79,6 +79,8 @@ The lecture series is compiled as handouts in **pdf** format
 
 The exercises are mainly **jupyter** notebooks, which can be accessed interactively through<br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_iceage.git/main?filepath=index.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/jupyter/main?urlpath=git-pull?repo=https://github.com/georgkaufmann/lecture_iceage)
 
 A list of notebooks can be found here:
 
